@@ -42,10 +42,10 @@
 			</Node>
 			<Node name="item0000000002">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Test1.tcKDTest"/>
+					<Prp name="relpath" type="S" value="TestScript.tcKDTest"/>
 				</Node>
 				<Prp name="index" type="I" value="2"/>
-				<Prp name="key" type="S" value="{FF6F2027-36D3-4EA7-B18A-F1A991DFDFE5}"/>
+				<Prp name="key" type="S" value="{24DC3222-6E9E-4725-AD57-B6AF3C4BB9A7}"/>
 				<Prp name="pluginname" type="S" value="Keyword Testing"/>
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
@@ -58,12 +58,29 @@
 					<Node name="references">
 						<Node name="ref0000000000">
 							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{FF6F2027-36D3-4EA7-B18A-F1A991DFDFE5}"/>
+							<Prp name="key" type="S" value="{79823D3A-B7B5-4656-AD29-7B12542DE9E3}"/>
+						</Node>
+						<Node name="ref0000000001">
+							<Prp name="index" type="I" value="1"/>
+							<Prp name="key" type="S" value="{24DC3222-6E9E-4725-AD57-B6AF3C4BB9A7}"/>
 						</Node>
 					</Node>
-					<Prp name="caption" type="S" value="NewFolder1"/>
+					<Prp name="caption" type="S" value="TestCase"/>
 					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 					<Prp name="index" type="I" value="0"/>
+					<Prp name="moniker" type="S" value=""/>
+				</Node>
+				<Node name="folder0000000001">
+					<Node name="folders"/>
+					<Node name="references">
+						<Node name="ref0000000000">
+							<Prp name="index" type="I" value="0"/>
+							<Prp name="key" type="S" value="{F03DC584-0AE7-459F-AF97-C54C3DDFDD56}"/>
+						</Node>
+					</Node>
+					<Prp name="caption" type="S" value="Action"/>
+					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+					<Prp name="index" type="I" value="1"/>
 					<Prp name="moniker" type="S" value=""/>
 				</Node>
 			</Node>

@@ -63,26 +63,6 @@
 				<Prp name="type" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
 				<Prp name="typename" type="S" value="Keyword Testing"/>
 			</Node>
-			<Node name="item0000000004">
-				<Node name="item data">
-					<Prp name="storage" type="S" value="Events\Events.tcAX"/>
-				</Node>
-				<Prp name="index" type="I" value="4"/>
-				<Prp name="key" type="S" value="{6D71F21F-1A8F-43E1-B7A0-5C70066B2955}"/>
-				<Prp name="pluginname" type="S" value=""/>
-				<Prp name="type" type="S" value="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}"/>
-				<Prp name="typename" type="S" value="Events"/>
-			</Node>
-			<Node name="item0000000005">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="NetworkSuite\NetworkSuite.tcNetSuite"/>
-				</Node>
-				<Prp name="index" type="I" value="5"/>
-				<Prp name="key" type="S" value="{BAE0C2A1-C420-4992-8467-C21E340BBA2E}"/>
-				<Prp name="pluginname" type="S" value="Network Suite"/>
-				<Prp name="type" type="S" value="{342AA317-C8C7-4232-8A60-069723AAFC67}"/>
-				<Prp name="typename" type="S" value="Network Suite"/>
-			</Node>
 		</Node>
 		<Node name="config">
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
@@ -96,56 +76,18 @@
 							<Prp name="index" type="I" value="0"/>
 							<Prp name="key" type="S" value="{96E36CE5-B1AC-4567-9A8B-3CBFE32D15A7}"/>
 						</Node>
-						<Node name="ref0000000001">
-							<Prp name="index" type="I" value="1"/>
-							<Prp name="key" type="S" value="{6D71F21F-1A8F-43E1-B7A0-5C70066B2955}"/>
-						</Node>
-						<Node name="ref0000000002">
-							<Prp name="index" type="I" value="2"/>
-							<Prp name="key" type="S" value="{BAE0C2A1-C420-4992-8467-C21E340BBA2E}"/>
-						</Node>
 					</Node>
 					<Prp name="caption" type="S" value="Advanced"/>
 					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 					<Prp name="index" type="I" value="0"/>
 					<Prp name="moniker" type="S" value="{69583268-92F3-49FA-B573-C831F5ABC27B}"/>
 				</Node>
-				<Node name="folder0000000001">
-					<Node name="folders"/>
-					<Node name="references">
-						<Node name="ref0000000000">
-							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{6D71F21F-1A8F-43E1-B7A0-5C70066B2955}"/>
-						</Node>
-						<Node name="ref0000000001">
-							<Prp name="index" type="I" value="1"/>
-							<Prp name="key" type="S" value="{BAE0C2A1-C420-4992-8467-C21E340BBA2E}"/>
-						</Node>
-					</Node>
-					<Prp name="caption" type="S" value="Action"/>
-					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
-					<Prp name="index" type="I" value="1"/>
-					<Prp name="moniker" type="S" value=""/>
-				</Node>
-				<Node name="folder0000000002">
-					<Node name="folders"/>
-					<Node name="references"/>
-					<Prp name="caption" type="S" value="Test"/>
-					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
-					<Prp name="index" type="I" value="2"/>
-					<Prp name="moniker" type="S" value=""/>
-				</Node>
 			</Node>
 		</Node>
 		<Node name="issue tracking">
 			<Prp name="key" type="S" value="{879A05CA-1CA1-44AE-920F-14D5797AAC85}"/>
 		</Node>
-		<Node name="scc">
-			<Prp name="auxpath" type="S" value="https://testcomplete-demo.googlecode.com/svn/trunk/"/>
-			<Prp name="localpath" type="S" value="."/>
-			<Prp name="projectname" type="S" value="Neebo_Demo/trunk"/>
-			<Prp name="providername" type="S" value="Agent SVN"/>
-		</Node>
+		<Node name="scc"/>
 		<Node name="settings">
 			<Node name="{0787aa13-4c49-418a-a688-b23be9f226f4}">
 				<Prp name="type" type="I" value="1"/>

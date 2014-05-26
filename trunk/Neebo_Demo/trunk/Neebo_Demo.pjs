@@ -42,12 +42,7 @@
 		<Node name="folders">
 			<Node name="folders"/>
 		</Node>
-		<Node name="scc">
-			<Prp name="auxpath" type="S" value="https://testcomplete-demo.googlecode.com/svn/trunk/"/>
-			<Prp name="localpath" type="S" value="."/>
-			<Prp name="projectname" type="S" value="Neebo_Demo/trunk"/>
-			<Prp name="providername" type="S" value="Agent SVN"/>
-		</Node>
+		<Node name="scc"/>
 		<Node name="settings">
 			<Node name="{5a85e200-b5d2-4f74-972a-0221f2956a19}">
 				<Prp name="type" type="I" value="5"/>
