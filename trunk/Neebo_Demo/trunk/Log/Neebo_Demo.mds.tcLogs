@@ -25,73 +25,23 @@
 		<Node name="logs">
 			<Node name="log0">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7289136458"/>
+				<Prp name="datetime" type="D" value="41785.7204575"/>
 				<Prp name="description" type="S" value=""/>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{E6E9909D-1A62-4A31-917E-8501E167757D}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_29 PM_38_138\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
+				<Prp name="key" type="S" value="{F4D4C273-0099-44B9-8BED-BA067B375D2F}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [TC002_Edit_Customer_Orders\TC002]"/>
+				<Prp name="relpath" type="S" value="5_26_2014_5_17 PM_27_528\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
 			</Node>
 			<Node name="log1">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7336719676"/>
+				<Prp name="datetime" type="D" value="41785.7211130324"/>
 				<Prp name="description" type="S" value=""/>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{B7767BCD-486D-4D41-AE74-6914AC067A7A}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_36 PM_29_257\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log2">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7338505671"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="index" type="I" value="2"/>
-				<Prp name="key" type="S" value="{0E35145F-6546-4864-AF7B-66C3CF1D0A11}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_36 PM_44_688\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log3">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7401307407"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="index" type="I" value="3"/>
-				<Prp name="key" type="S" value="{0E651CC5-8637-4928-8E01-B1EFCE6E3F6D}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_45 PM_47_296\Description.tcLog"/>
+				<Prp name="key" type="S" value="{9FF7B5F2-4658-4F85-95CD-086E417AD1B7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [TC002_Edit_Customer_Orders\TC002]"/>
+				<Prp name="relpath" type="S" value="5_26_2014_5_18 PM_24_166\Description.tcLog"/>
 				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log4">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7406946065"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="index" type="I" value="4"/>
-				<Prp name="key" type="S" value="{FEC77756-E1FE-4390-BCB6-12EB236E6DF9}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_46 PM_36_13\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log5">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7427594097"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="index" type="I" value="5"/>
-				<Prp name="key" type="S" value="{8D12FB2A-D68A-47B2-B726-9E6B193EA4EB}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_49 PM_34_412\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log6">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="41782.7434301389"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="index" type="I" value="6"/>
-				<Prp name="key" type="S" value="{E510638C-2807-4CFD-9109-A365AF2C83E0}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [TestScript]"/>
-				<Prp name="relpath" type="S" value="5_23_2014_5_50 PM_32_363\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>

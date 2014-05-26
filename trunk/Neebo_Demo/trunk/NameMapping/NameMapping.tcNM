@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="60">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="84">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -132,6 +132,100 @@
 									</Child0>
 								</Children>
 							</Child1>
+							<Child2 Name="pageWebOrdersLogin" Key="{43828D89-ED04-46F9-80FD-A057ADF9554D}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="60" />
+									<Property1 Name="URL" Cookie="61" />
+								</Properties>
+								<Children>
+									<Child0 Name="formAspnetform" Key="{49F2B77B-FA2C-4206-A300-C40906AB2028}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="62" />
+											<Property1 Name="idStr" Cookie="63" />
+										</Properties>
+										<Children>
+											<Child0 Name="textboxMaincontentUsername" Key="{3007F5DC-F92D-4BC0-B782-EB58088A496B}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="64" />
+													<Property1 Name="idStr" Cookie="65" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="12" />
+											</Child0>
+											<Child1 Name="passwordboxMaincontentPassword" Key="{88C72B9F-0133-4DF0-859B-0B53537E3F47}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="66" />
+													<Property1 Name="idStr" Cookie="67" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="12" />
+											</Child1>
+											<Child2 Name="submitbuttonLogin" Key="{DC21369C-2AA9-4068-AC29-86324AF21C25}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="68" />
+													<Property1 Name="idStr" Cookie="69" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="12" />
+											</Child2>
+											<Child3 Name="labelUsername" Key="{409B9D0A-013E-463E-BF6C-37F978D29698}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="70" />
+													<Property1 Name="contentText" Cookie="71" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="12" />
+											</Child3>
+											<Child4 Name="labelPassword" Key="{77FC5825-CAE4-4830-B881-D46385C28BDA}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="72" />
+													<Property1 Name="contentText" Cookie="73" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="12" />
+											</Child4>
+										</Children>
+										<TypeInfo Item0="12" />
+									</Child0>
+								</Children>
+							</Child2>
+							<Child3 Name="pageWebOrders" Key="{1F77C397-C935-4862-A992-47C2988B1C5D}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="74" />
+									<Property1 Name="URL" Cookie="75" />
+								</Properties>
+								<Children>
+									<Child0 Name="formAspnetform" Key="{CF3D8B6D-E847-41EF-8404-8B837E7EF4C1}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="76" />
+											<Property1 Name="idStr" Cookie="77" />
+										</Properties>
+										<Children>
+											<Child0 Name="tableMaincontentOrdergrid" Key="{CD8C217C-BFC7-446E-ACC1-30A7AFDB2EF5}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="78" />
+													<Property1 Name="ObjectIdentifier" Cookie="79" />
+												</Properties>
+												<Children>
+													<Child0 Name="cellPaulBrown" Key="{003B202B-C96D-43D5-B8F6-AA4329E1AC35}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="80" />
+															<Property1 Name="RowIndex" Cookie="81" />
+															<Property2 Name="ColumnIndex" Cookie="82" />
+															<Property3 Name="contentText" Cookie="83" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="12" />
+													</Child0>
+												</Children>
+												<TypeInfo Item0="12" />
+											</Child0>
+										</Children>
+										<TypeInfo Item0="12" />
+									</Child0>
+								</Children>
+								<TypeInfo Item0="12" />
+							</Child3>
 						</Children>
 						<TypeInfo Item0="1" />
 					</Child0>
@@ -148,12 +242,35 @@
 				<Child2 Name="txt_Customer_Name" Owner="{B957547B-AAD3-4002-A0CA-29BDB9B8B490}" />
 				<Child3 Name="btn_Updare_Order" Owner="{D317C7CB-4BDB-4727-847B-F758BD2426B7}" />
 				<Child4 Name="lbl_Customer_Name" Owner="{3DD9D852-8262-472F-B3AF-1A47D960F7C8}" />
+				<Child5 Name="tbl_list" Owner="{A64AA82A-D7EB-412D-BF1A-203ED6813388}">
+					<Child0 Name="cell" Owner="{0B40F814-674D-4135-8F31-D8E07A0F2936}">
+						<Child0 Name="btn_Edit_Order" Owner="{E9B9144E-10F6-4280-B746-43A0458AC47C}" />
+					</Child0>
+					<Child1 Name="lbl_Customer_Name" Owner="{3DD9D852-8262-472F-B3AF-1A47D960F7C8}" />
+				</Child5>
 			</Child0>
 			<Child1 Name="page_Login" Owner="{85539CC6-F0D8-4342-8FB0-82C7D9F08D93}">
 				<Child0 Name="btn_Login" Owner="{36DDB6A6-DD5F-4D08-8C31-3C15EA4487C9}" />
 				<Child1 Name="txt_Password" Owner="{08A922E9-E55E-4FA5-B30E-9184839327C2}" />
 				<Child2 Name="txt_Username" Owner="{8EA66978-5386-4AD1-9435-47681C0E4F94}" />
 			</Child1>
+			<Child2 Name="page_login_delete" Owner="{43828D89-ED04-46F9-80FD-A057ADF9554D}">
+				<Child0 Name="form" Owner="{49F2B77B-FA2C-4206-A300-C40906AB2028}">
+					<Child0 Name="txt_username" Owner="{3007F5DC-F92D-4BC0-B782-EB58088A496B}" />
+					<Child1 Name="txt_password" Owner="{88C72B9F-0133-4DF0-859B-0B53537E3F47}" />
+					<Child2 Name="btn_login" Owner="{DC21369C-2AA9-4068-AC29-86324AF21C25}" />
+					<Child3 Name="lbl_username" Owner="{409B9D0A-013E-463E-BF6C-37F978D29698}" />
+					<Child4 Name="lbl_password" Owner="{77FC5825-CAE4-4830-B881-D46385C28BDA}" />
+				</Child0>
+			</Child2>
+			<Child3 Name="page_list_delete" Owner="{1F77C397-C935-4862-A992-47C2988B1C5D}">
+				<Child0 Name="form" Owner="{CF3D8B6D-E847-41EF-8404-8B837E7EF4C1}">
+					<Child0 Name="tbl_list" Owner="{CD8C217C-BFC7-446E-ACC1-30A7AFDB2EF5}">
+						<Child0 Name="cell_PaulBrown" Owner="{003B202B-C96D-43D5-B8F6-AA4329E1AC35}" />
+					</Child0>
+				</Child0>
+				<Child1 Name="cellPaulBrown" Owner="{003B202B-C96D-43D5-B8F6-AA4329E1AC35}" />
+			</Child3>
 		</Child0>
 	</LogicalNodes>
 	<Storages Current="0">
@@ -191,6 +308,30 @@
 			<Property30 Cookie="56" PropertyType="0" Value="1" Type="0" />
 			<Property31 Cookie="57" PropertyType="0" Value="1" Type="0" />
 			<Property32 Cookie="59" PropertyType="0" Value="Browser" Type="5" />
+			<Property33 Cookie="60" PropertyType="0" Value="Page" Type="5" />
+			<Property34 Cookie="61" PropertyType="0" Value="http://support.smartbear.com/Samples/TestComplete10/WebOrders/Login.aspx" Type="5" />
+			<Property35 Cookie="62" PropertyType="0" Value="Form" Type="5" />
+			<Property36 Cookie="63" PropertyType="0" Value="aspnetForm" Type="5" />
+			<Property37 Cookie="64" PropertyType="0" Value="Textbox" Type="5" />
+			<Property38 Cookie="65" PropertyType="0" Value="ctl00_MainContent_username" Type="5" />
+			<Property39 Cookie="66" PropertyType="0" Value="PasswordBox" Type="5" />
+			<Property40 Cookie="67" PropertyType="0" Value="ctl00_MainContent_password" Type="5" />
+			<Property41 Cookie="68" PropertyType="0" Value="SubmitButton" Type="5" />
+			<Property42 Cookie="69" PropertyType="0" Value="ctl00_MainContent_login_button" Type="5" />
+			<Property43 Cookie="70" PropertyType="0" Value="Label" Type="5" />
+			<Property44 Cookie="71" PropertyType="0" Value="Username:" Type="5" />
+			<Property45 Cookie="72" PropertyType="0" Value="Label" Type="5" />
+			<Property46 Cookie="73" PropertyType="0" Value="Password:" Type="5" />
+			<Property47 Cookie="74" PropertyType="0" Value="Page" Type="5" />
+			<Property48 Cookie="75" PropertyType="0" Value="http://support.smartbear.com/Samples/TestComplete10/WebOrders/default.aspx" Type="5" />
+			<Property49 Cookie="76" PropertyType="0" Value="Form" Type="5" />
+			<Property50 Cookie="77" PropertyType="0" Value="aspnetForm" Type="5" />
+			<Property51 Cookie="78" PropertyType="0" Value="Table" Type="5" />
+			<Property52 Cookie="79" PropertyType="0" Value="MainContent_orderGrid" Type="5" />
+			<Property53 Cookie="80" PropertyType="0" Value="Cell" Type="5" />
+			<Property54 Cookie="81" PropertyType="0" Value="1" Type="0" />
+			<Property55 Cookie="82" PropertyType="0" Value="1" Type="0" />
+			<Property56 Cookie="83" PropertyType="0" Value="Paul Brown" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
@@ -3221,6 +3362,12 @@
 				<VarDescriptions />
 			</Data>
 		</Child11>
+		<Child12 Hash="0">
+			<Data Properties="000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFF0000000004000000040000000000000000000000000000000000000000000000000000000000000000000000">
+				<FunctionDescriptions />
+				<VarDescriptions />
+			</Data>
+		</Child12>
 		<UserDefinedTypes Child0="ItcSysObjectDesktop" Child1="GUID" Child2="DISPPARAMS" Child3="EXCEPINFO" Child4="ItcSysOsInformationBase" Child5="TShiftKey" />
 	</TypeInfo>
 </Root>

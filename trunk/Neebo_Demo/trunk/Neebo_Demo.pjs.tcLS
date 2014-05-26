@@ -26,6 +26,9 @@
 			<Node name="{841a2b1e-8f6f-429e-82bc-3378956d1477}">
 				<Prp name="relpath" type="S" value="Neebo_Demo.mds.tcLS"/>
 			</Node>
+			<Node name="{95db3c3f-dac9-40d6-a6c4-35e587feea78}">
+				<Prp name="relpath" type="S" value="..\..\..\..\Documents\TestComplete 10 Projects\Orders\Orders\Orders.mds.tcLS"/>
+			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{DC86E0BF-4126-4F66-BB53-5C058B4159F1}"/>
 				<Prp name="relpath" type="S" value="Log"/>
