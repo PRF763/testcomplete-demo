@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="item0000000000">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="136"/>
+					<Prp name="click point y" type="I" value="12"/>
+					<Prp name="datetime" type="D" value="41786.3030208333"/>
+					<Prp name="image file name" type="S" value="tcvi10433000527002.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="30"/>
+					<Prp name="object left" type="I" value="56"/>
+					<Prp name="object name" type="S" value="Aliases.explorer.wndShell_TrayWnd.ReBarWindow32.MSTaskSwWClass.MSTaskListWClass"/>
+					<Prp name="object right" type="I" value="915"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="0"/>
+			</Node>
+			<Node name="item0000000001">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="391"/>
+					<Prp name="click point y" type="I" value="306"/>
+					<Prp name="datetime" type="D" value="41786.3030671296"/>
+					<Prp name="image file name" type="S" value="tcvi10433353132680.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="object name" type="S" value="Aliases.pageLogin.form.txt_EmailAddress"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object top" type="I" value="295"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="1"/>
+			</Node>
+			<Node name="item0000000002">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="41786.3030787037"/>
+					<Prp name="image file name" type="S" value="tcvi10433481032681.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="object name" type="S" value="Aliases.pageLogin.form.txt_EmailAddress"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object top" type="I" value="295"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+			</Node>
+			<Node name="item0000000003">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="41786.3032175926"/>
+					<Prp name="image file name" type="S" value="tcvi104346541326811.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="320"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="object name" type="S" value="Aliases.pageLogin.form.txt_EmailAddress"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object top" type="I" value="295"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="3"/>
+			</Node>
+			<Node name="item0000000004">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="41786.3032407407"/>
+					<Prp name="image file name" type="S" value="tcvi104347976326812.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="355"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="object name" type="S" value="Aliases.pageLogin.form.txt_Password"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object top" type="I" value="330"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="4"/>
+			</Node>
+			<Node name="item0000000005">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="361"/>
+					<Prp name="click point y" type="I" value="430"/>
+					<Prp name="datetime" type="D" value="41786.3033101852"/>
+					<Prp name="image file name" type="S" value="tcvi104354216326821.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="444"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="object name" type="S" value="Aliases.pageLogin.form.btn_Login"/>
+					<Prp name="object right" type="I" value="398"/>
+					<Prp name="object top" type="I" value="419"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="5"/>
+			</Node>
+			<Prp name="key" type="S" value="{6CA2ECF8-9AFA-4AEF-AF3E-25BA09D02129}"/>
+		</Node>
+		<Prp name="signature" type="S" value="{42D2222C-ACA2-405F-8E67-05D5C42EB839}"/>
+		<Prp name="version" type="I" value="1"/>
+	</Node>
+</Nodes>

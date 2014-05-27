@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="65">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="73">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -124,6 +124,33 @@
 								</Children>
 								<TypeInfo Item0="1" />
 							</Child1>
+							<Child2 Name="pageNeebooCom" Key="{ABAE0EE2-FA75-4DFC-B58B-4383BA420153}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="65" />
+									<Property1 Name="URL" Cookie="66" />
+									<Property2 Name="ObjectGroupIndex" Cookie="67" />
+								</Properties>
+								<Children />
+								<TypeInfo Item0="12" />
+							</Child2>
+							<Child3 Name="pageWwwNeeboCom" Key="{F02767E4-1E8E-42BF-A8B6-6D9D43914AAC}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="68" />
+									<Property1 Name="URL" Cookie="69" />
+									<Property2 Name="ObjectGroupIndex" Cookie="70" />
+								</Properties>
+								<Children>
+									<Child0 Name="imageNeeboLogoPng" Key="{9631A6FC-683E-4DAB-B56F-3AC2BBA4A9CC}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="71" />
+											<Property1 Name="ObjectIdentifier" Cookie="72" />
+										</Properties>
+										<Children />
+										<TypeInfo Item0="2" />
+									</Child0>
+								</Children>
+								<TypeInfo Item0="1" />
+							</Child3>
 						</Children>
 						<TypeInfo Item0="0" />
 					</Child0>
@@ -205,6 +232,14 @@
 			<Property62 Cookie="62" PropertyType="0" Value="3" Type="0" />
 			<Property63 Cookie="63" PropertyType="0" Value="Panel" Type="5" />
 			<Property64 Cookie="64" PropertyType="0" Value="4" Type="0" />
+			<Property65 Cookie="65" PropertyType="0" Value="Page" Type="5" />
+			<Property66 Cookie="66" PropertyType="0" Value="http://neeboo.com/" Type="5" />
+			<Property67 Cookie="67" PropertyType="0" Value="0" Type="0" />
+			<Property68 Cookie="68" PropertyType="0" Value="Page" Type="5" />
+			<Property69 Cookie="69" PropertyType="0" Value="http://www.neebo.com/" Type="5" />
+			<Property70 Cookie="70" PropertyType="0" Value="0" Type="0" />
+			<Property71 Cookie="71" PropertyType="0" Value="Image" Type="5" />
+			<Property72 Cookie="72" PropertyType="0" Value="neebo_logo_png" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
@@ -2210,6 +2245,65 @@
 				<VarDescriptions />
 			</Data>
 		</Child11>
+		<Child12 Hash="-1187879528">
+			<Data Properties="FF452E468742DF498FC3579BADF047CE0000000000000000FFFFFFFFFFFFFFFF0000000000000000040000000800000000000000000000000000000000000000000000000000000000000000">
+				<FunctionDescriptions>
+					<Child0 Name="Close" Doc="Closes a page open in the browser." IsBasic="True" Data="00000000000000000000000004000000010000000400000000000000000000000000000018000000000000000000000000000000">
+						<ReturnValue Param0="24" />
+					</Child0>
+					<Child1 Name="Visible" IsBasic="True" Data="0000000000000000000000000400000002000000040000000000000000000000000000000B000000000000000000000000000000">
+						<ReturnValue Param0="11" />
+					</Child1>
+					<Child2 Name="Width" IsBasic="True" Data="00000000000000000000000004000000020000000400000000000000000000000000000013000000000000000000000000000000">
+						<ReturnValue Param0="19" />
+					</Child2>
+					<Child3 Name="Height" IsBasic="True" Data="00000000000000000000000004000000020000000400000000000000000000000000000013000000000000000000000000000000">
+						<ReturnValue Param0="19" />
+					</Child3>
+					<Child4 Name="Enabled" IsBasic="True" Data="0000000000000000000000000400000002000000040000000000000000000000000000000B000000000000000000000000000000">
+						<ReturnValue Param0="11" />
+					</Child4>
+					<Child5 Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="00000000000000000000000004000000010000000400000003000000000000000000000018000000000000000000000000000000">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child5>
+					<Child6 Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="00000000000000000000000004000000010000000400000003000000000000000000000018000000000000000000000000000000">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child6>
+					<Child7 Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="00000000000000000000000004000000010000000400000001000000000000000000000018000000000000000000000000000000">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child7>
+				</FunctionDescriptions>
+				<VarDescriptions />
+			</Data>
+		</Child12>
 		<UserDefinedTypes Child0="GUID" Child1="DISPPARAMS" Child2="EXCEPINFO" Child3="TShiftKey" />
 	</TypeInfo>
 </Root>
