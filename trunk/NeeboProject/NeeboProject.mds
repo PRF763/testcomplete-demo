@@ -20,7 +20,7 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="analysis">
-			<Prp name="key" type="S" value="{1741BCED-EF4C-43A9-BAA0-A43C5EF8A35B}"/>
+			<Prp name="key" type="S" value="{118EA218-DE1E-4DB8-A876-2FD986A0947B}"/>
 		</Node>
 		<Node name="child list">
 			<Node name="item0000000000">
@@ -28,7 +28,7 @@
 					<Prp name="relpath" type="S" value="KeywordTests\KeywordTests.tcKDT"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{3C26E3BA-438F-4B7B-B638-8BD231A463EA}"/>
+				<Prp name="key" type="S" value="{4D6D3CB9-78AB-40D4-9CD2-AC332FAEB6C3}"/>
 				<Prp name="pluginname" type="S" value="Keyword Testing"/>
 				<Prp name="type" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
 				<Prp name="typename" type="S" value="Keyword Testing"/>
@@ -38,7 +38,7 @@
 					<Prp name="relpath" type="S" value="Script\Script.tcScript"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{BE384149-33A5-4756-A693-752048B68346}"/>
+				<Prp name="key" type="S" value="{8B830715-BF57-4C4B-A8C0-BCB0F9244AAF}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{9252F941-DB23-4FCA-AA50-858B33BB4A19}"/>
 				<Prp name="typename" type="S" value="Script"/>
@@ -48,7 +48,7 @@
 					<Prp name="storage" type="S" value="Events\Events.tcAX"/>
 				</Node>
 				<Prp name="index" type="I" value="2"/>
-				<Prp name="key" type="S" value="{165D823C-5DA7-42CB-B5DC-AC2FAE561AEB}"/>
+				<Prp name="key" type="S" value="{3597B931-17DF-4D52-B70E-8556CC231A92}"/>
 				<Prp name="pluginname" type="S" value=""/>
 				<Prp name="type" type="S" value="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}"/>
 				<Prp name="typename" type="S" value="Events"/>
@@ -58,14 +58,14 @@
 					<Prp name="relpath" type="S" value="NameMapping\NameMapping.tcNM"/>
 				</Node>
 				<Prp name="index" type="I" value="3"/>
-				<Prp name="key" type="S" value="{A28BE8F9-DB98-4DE4-BED1-F962D170496B}"/>
+				<Prp name="key" type="S" value="{D0573BFB-DFC1-4A4F-8208-D73D3E5D2BB9}"/>
 				<Prp name="pluginname" type="S" value="NameMapping"/>
 				<Prp name="type" type="S" value="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}"/>
 				<Prp name="typename" type="S" value="Name Mapping"/>
 			</Node>
 		</Node>
 		<Node name="config">
-			<Prp name="language" type="S" value="{897793E3-73F3-4895-A956-3D41D3A24A45}"/>
+			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 		</Node>
 		<Node name="folders">
 			<Node name="folders">
@@ -74,11 +74,11 @@
 					<Node name="references">
 						<Node name="ref0000000000">
 							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{BE384149-33A5-4756-A693-752048B68346}"/>
+							<Prp name="key" type="S" value="{8B830715-BF57-4C4B-A8C0-BCB0F9244AAF}"/>
 						</Node>
 						<Node name="ref0000000001">
 							<Prp name="index" type="I" value="1"/>
-							<Prp name="key" type="S" value="{165D823C-5DA7-42CB-B5DC-AC2FAE561AEB}"/>
+							<Prp name="key" type="S" value="{3597B931-17DF-4D52-B70E-8556CC231A92}"/>
 						</Node>
 					</Node>
 					<Prp name="caption" type="S" value="Advanced"/>
@@ -89,7 +89,7 @@
 			</Node>
 		</Node>
 		<Node name="issue tracking">
-			<Prp name="key" type="S" value="{A0DCB396-8915-4737-8DC8-1E744866E797}"/>
+			<Prp name="key" type="S" value="{75C2510A-F1F8-494D-AD3D-2B041289256E}"/>
 		</Node>
 		<Node name="scc"/>
 		<Node name="settings">
@@ -1165,15 +1165,15 @@
 				<Prp name="rowindex" type="I" value="-1"/>
 				<Prp name="type" type="I" value="6"/>
 			</Node>
-			<Prp name="key" type="S" value="{86C8195B-B9DE-4780-84FF-1B21906D4A9A}"/>
+			<Prp name="key" type="S" value="{70E939C6-62CD-409E-81D2-2180C896F222}"/>
 			<Prp name="settingsversion" type="S" value="10.20"/>
 		</Node>
 		<Node name="test data">
 			<Node name="child list"/>
-			<Prp name="key" type="S" value="{DAF3DBE9-5CEC-4D61-B4A7-258525B73BDC}"/>
+			<Prp name="key" type="S" value="{71A3CE26-7092-46D9-8FFB-308A9C0745A5}"/>
 		</Node>
 		<Node name="variables">
-			<Prp name="key" type="S" value="{0C9CB687-8B2F-4405-8AD9-DC76863785FD}"/>
+			<Prp name="key" type="S" value="{D3805330-68DA-4DF4-9256-5C380ADEA58B}"/>
 		</Node>
 		<Prp name="signature" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 		<Prp name="version" type="S" value="10.0"/>

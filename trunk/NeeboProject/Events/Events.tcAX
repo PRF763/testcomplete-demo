@@ -158,17 +158,17 @@
 						<Prp name="info_tlbver" type="S" value="version.dll"/>
 					</Node>
 					<Prp name="eventinfocount" type="I" value="15"/>
-					<Prp name="generatedclsid" type="S" value="{F92EBF11-7C18-4BAB-A6DC-8768F395569F}"/>
-					<Prp name="generatedeventskey" type="S" value="{BAB5F222-8061-49BC-B4CD-6512B54D24F7}"/>
-					<Prp name="generatedtlbdesc" type="S" value="TestComplete GeneralEvents Control - 5/27/2014 11:06:13 AM"/>
-					<Prp name="generatedtlbkey" type="S" value="{D754AA4E-5281-4B36-ACDF-73D07BBEDDA3}"/>
+					<Prp name="generatedclsid" type="S" value="{D09DB096-F5BA-41D1-ADEA-6718E316A12D}"/>
+					<Prp name="generatedeventskey" type="S" value="{04D47FE5-6414-45B2-8E8E-8F70A0935694}"/>
+					<Prp name="generatedtlbdesc" type="S" value="TestComplete GeneralEvents Control - 5/27/2014 1:43:12 PM"/>
+					<Prp name="generatedtlbkey" type="S" value="{BD03442C-2BEC-454E-AB58-07CE7CD1B119}"/>
 					<Prp name="handlerinfocount" type="I" value="0"/>
 					<Prp name="lastopenedtlb" type="S" value=""/>
 					<Prp name="node name" type="S" value="GeneralEvents"/>
 				</Node>
 				<Node name="data"/>
 				<Node name="test data"/>
-				<Prp name="key" type="S" value="{11C55CA9-20EE-4D4D-A2CB-8770C637BFD1}"/>
+				<Prp name="key" type="S" value="{E4591886-37E2-4A4A-9734-90A89119BD07}"/>
 				<Prp name="type" type="S" value="{8A98BAC4-2A89-4883-AAE7-F07337DF59D1}"/>
 				<Prp name="typename" type="S" value="Event control"/>
 			</Node>
@@ -176,14 +176,14 @@
 		</Node>
 		<Node name="config">
 			<Prp name="node name" type="S" value="Events"/>
-			<Prp name="tlbhistory" type="S" value="&quot;TestComplete general events&quot;"/>
+			<Prp name="tlbhistory" type="S" value=""/>
 		</Node>
 		<Node name="data"/>
 		<Node name="folders">
 			<Node name="folders"/>
 		</Node>
 		<Node name="test data"/>
-		<Prp name="key" type="S" value="{165D823C-5DA7-42CB-B5DC-AC2FAE561AEB}"/>
+		<Prp name="key" type="S" value="{3597B931-17DF-4D52-B70E-8556CC231A92}"/>
 		<Prp name="signature" type="S" value="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}"/>
 		<Prp name="type" type="S" value="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}"/>
 		<Prp name="typename" type="S" value="Events"/>
