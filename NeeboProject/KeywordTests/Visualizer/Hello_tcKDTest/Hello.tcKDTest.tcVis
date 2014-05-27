@@ -20,12 +20,9 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="logs">
-				<Prp name="key" type="S" value="{C89418FF-E345-4B40-9F1C-2109B427CCED}"/>
-				<Prp name="relpath" type="S" value="Log"/>
-			</Node>
-			<Node name="variables"/>
+			<Prp name="key" type="S" value="{35BBE055-B5F6-4841-99D2-53C05032F0B8}"/>
 		</Node>
-		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+		<Prp name="signature" type="S" value="{42D2222C-ACA2-405F-8E67-05D5C42EB839}"/>
+		<Prp name="version" type="I" value="1"/>
 	</Node>
 </Nodes>
