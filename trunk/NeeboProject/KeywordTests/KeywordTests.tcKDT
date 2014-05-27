@@ -40,6 +40,16 @@
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
 			</Node>
+			<Node name="item0000000002">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="start.tcKDTest"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{65E7263A-C29C-4B7D-8D81-5FC068677565}"/>
+				<Prp name="pluginname" type="S" value="Keyword Testing"/>
+				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
+				<Prp name="typename" type="S" value="Keyword Test"/>
+			</Node>
 		</Node>
 		<Node name="folders">
 			<Node name="folders">
@@ -59,6 +69,10 @@
 								<Node name="ref0000000000">
 									<Prp name="index" type="I" value="0"/>
 									<Prp name="key" type="S" value="{50D4591E-9509-4041-8BA2-951BBDDD4596}"/>
+								</Node>
+								<Node name="ref0000000001">
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{65E7263A-C29C-4B7D-8D81-5FC068677565}"/>
 								</Node>
 							</Node>
 							<Prp name="caption" type="S" value="z_Sandbox"/>
