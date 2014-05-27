@@ -30,9 +30,126 @@
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
+			<Node name="item0000000001">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="test.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="key" type="S" value="{6CA2ECF8-9AFA-4AEF-AF3E-25BA09D02129}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000002">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="signIn.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{11E2566B-4C48-4805-9C5D-00633C2378D2}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000003">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Unit2.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="key" type="S" value="{29FECD49-FD91-4E16-9522-D57EDFAD93C1}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
 		</Node>
 		<Node name="folders">
-			<Node name="folders"/>
+			<Node name="folders">
+				<Node name="folder0000000000">
+					<Node name="folders">
+						<Node name="folder0000000000">
+							<Node name="folders"/>
+							<Node name="references">
+								<Node name="ref0000000000">
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{11E2566B-4C48-4805-9C5D-00633C2378D2}"/>
+								</Node>
+								<Node name="ref0000000001">
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{29FECD49-FD91-4E16-9522-D57EDFAD93C1}"/>
+								</Node>
+							</Node>
+							<Prp name="caption" type="S" value="z_Sandbox"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="0"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+						<Node name="folder0000000001">
+							<Node name="folders"/>
+							<Node name="references"/>
+							<Prp name="caption" type="S" value="Neebo"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="1"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+					</Node>
+					<Node name="references"/>
+					<Prp name="caption" type="S" value="Actions"/>
+					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+					<Prp name="index" type="I" value="0"/>
+					<Prp name="moniker" type="S" value=""/>
+				</Node>
+				<Node name="folder0000000001">
+					<Node name="folders">
+						<Node name="folder0000000000">
+							<Node name="folders">
+								<Node name="folder0000000000">
+									<Node name="folders">
+										<Node name="folder0000000000">
+											<Node name="folders"/>
+											<Node name="references"/>
+											<Prp name="caption" type="S" value="SignIn"/>
+											<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="moniker" type="S" value=""/>
+										</Node>
+									</Node>
+									<Node name="references"/>
+									<Prp name="caption" type="S" value="MyAccount"/>
+									<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="moniker" type="S" value=""/>
+								</Node>
+							</Node>
+							<Node name="references"/>
+							<Prp name="caption" type="S" value="Neebo"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="0"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+						<Node name="folder0000000001">
+							<Node name="folders"/>
+							<Node name="references">
+								<Node name="ref0000000000">
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{7F065FD6-7F40-4BB0-BF8F-A28434EDE74D}"/>
+								</Node>
+								<Node name="ref0000000001">
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{6CA2ECF8-9AFA-4AEF-AF3E-25BA09D02129}"/>
+								</Node>
+							</Node>
+							<Prp name="caption" type="S" value="z_Sandbox"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="1"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+					</Node>
+					<Node name="references"/>
+					<Prp name="caption" type="S" value="TestCases"/>
+					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+					<Prp name="index" type="I" value="1"/>
+					<Prp name="moniker" type="S" value=""/>
+				</Node>
+			</Node>
 		</Node>
 		<Node name="settings"/>
 		<Prp name="signature" type="S" value="{9252F941-DB23-4FCA-AA50-858B33BB4A19}"/>
